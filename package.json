@@ -6,8 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "postinstall": "npm install --save-dev @types/react @types/node",
-    "lint": "next lint"
+    "lint": "next lint",
+    "postinstall": "npm install --save-dev @types/react @types/node"
   },
   "dependencies": {
     "next": "13.4.10",
