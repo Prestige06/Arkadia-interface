@@ -1,3 +1,4 @@
+import './globals.css'; // or whatever your global CSS file is named
 // app/layout.tsx
 export default function RootLayout({ children }) {
   return (
